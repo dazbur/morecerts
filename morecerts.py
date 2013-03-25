@@ -1,5 +1,8 @@
 #!/usr/bin/python
 
+# Author 
+# Danil Zburivsky 2013
+
 import sys
 import os
 from optparse import OptionParser, OptionGroup
